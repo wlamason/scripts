@@ -1,7 +1,7 @@
 # Welcome to scripts 👋
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wlamason/scripts/blob/master/LICENSE)
 
-> Miscellaneous scripts I wrote to make my life easier.
+> 💾 Miscellaneous scripts I wrote to make my life easier.
 
 ## Author
 
