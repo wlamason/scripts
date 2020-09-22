@@ -1,12 +1,5 @@
-<h1 align="center">Welcome to scripts 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/scripts" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/scripts.svg">
-  </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+# Welcome to scripts 👋
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wlamason/scripts/blob/master/LICENSE)
 
 > Miscellaneous scripts I wrote to make my life easier.
 
