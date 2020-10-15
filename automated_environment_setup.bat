@@ -74,3 +74,6 @@ pip3 install awscli
 
 :: readme-md-generator
 npm install -g readme-md-generator
+
+:: Jupyter Lab
+pip3 install jupyterlab
