@@ -36,6 +36,7 @@ choco install sqlite -fy
 choco install jdk8 -fy
 choco install python -fy
 choco install nodejs -fy
+choco install postgresql -fy
 
 :: CLI Programs
 choco install ffmpeg -fy
