@@ -24,6 +24,7 @@ choco install etcher -fy
 choco install greenshot -fy
 choco install gimp -fy
 choco install angryip -fy
+choco install keepassxc -fy
 
 :: Software Development Programs
 choco install vscode -fy
@@ -37,6 +38,7 @@ choco install jdk8 -fy
 choco install python -fy
 choco install nodejs -fy
 choco install postgresql -fy
+choco install rpi-imager -fy
 
 :: CLI Programs
 choco install ffmpeg -fy
