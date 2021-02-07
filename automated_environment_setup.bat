@@ -25,6 +25,7 @@ choco install greenshot -fy
 choco install gimp -fy
 choco install angryip -fy
 choco install keepassxc -fy
+choco install spotify -fy
 
 :: Software Development Programs
 choco install vscode -fy
