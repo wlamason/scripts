@@ -30,14 +30,16 @@ choco install spotify -fy
 :: Software Development Programs
 choco install vscode -fy
 choco install intellijidea-community -fy
+choco install visualstudio2019community -fy
 choco install dbeaver -fy
 choco install git -fy
 choco install cmake -fy
 choco install vagrant -fy
 choco install sqlite -fy
-choco install jdk8 -fy
+choco install ojdkbuild11 -fy
+choco install maven -fy
 choco install python -fy
-choco install nodejs -fy
+choco install nvm -fy
 choco install postgresql -fy
 choco install rpi-imager -fy
 
@@ -51,7 +53,12 @@ choco install steam -fy
 choco install dolphin -fy
 choco install origin -fy
 choco install epicgameslauncher -fy
-:: Install Battle.net manually
+:: Battle.net
+@echo Downloading Battle.net
+curl -L -O -# https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live
+:: FiveM
+@echo Downloading FiveM
+curl -L -O -# https://runtime.fivem.net/client/FiveM.exe
 
 :: Instaloader https://instaloader.github.io/index.html
 pip3 install instaloader

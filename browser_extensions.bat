@@ -11,3 +11,4 @@ start chrome https://chrome.google.com/webstore/detail/reload-all-tabs/midkcinmp
 start chrome https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh
 start chrome https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb
 start chrome https://chrome.google.com/webstore/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped
+start chrome https://chrome.google.com/webstore/detail/recipe-filter/ahlcdjbkdaegmljnnncfnhiioiadakae

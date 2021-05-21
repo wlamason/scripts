@@ -4,6 +4,7 @@
 > 💾 Miscellaneous scripts I wrote to make my life easier.
 
 - automated_environment_setup.bat - Install all programs I use on a new windows machine.
+- automated_environment_setup.sh - Install all programs I use on a new debian machine.
 - browser_extensions.bat - Open browser to the install pages of all the extensions I use.
 - vs_code_extensions.bat - Install the vs code extensions I use.
 - superuser.sh - Example script of how to create/delete a super user.
