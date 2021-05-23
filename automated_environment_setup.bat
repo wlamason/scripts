@@ -71,12 +71,6 @@ curl -L -O -# https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.41.exe
 @echo Downloading WebM Converter
 curl -L -O -# https://nixx.is-fantabulo.us/WebM%20for%20Retards/latest.zip
 
-:: Parcel https://parceljs.org/
-npm install -g parcel-bundler
-
-:: http-server https://www.npmjs.com/package/http-server
-npm install -g http-server
-
 :: HTTPie https://httpie.org/
 pip3 install --upgrade httpie
 

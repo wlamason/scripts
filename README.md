@@ -9,6 +9,7 @@
 - vs_code_extensions.bat - Install the vs code extensions I use.
 - superuser.sh - Example script of how to create/delete a super user.
 - install_docker.sh - Install docker on any linux machine. Output at end of script indicates how to create a docker user.
+- clone_repos.sh - Clone all git repos I use regularly on my local machine.
 
 ## Author
 

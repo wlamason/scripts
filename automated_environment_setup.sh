@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install man pages
 sudo apt -y install man-db
 
