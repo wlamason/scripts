@@ -42,6 +42,8 @@ choco install python -fy
 choco install nvm -fy
 choco install postgresql -fy
 choco install rpi-imager -fy
+choco install vnc-viewer -fy
+choco install docker-desktop -fy
 
 :: CLI Programs
 choco install ffmpeg -fy
