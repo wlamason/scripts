@@ -26,6 +26,7 @@ choco install gimp -fy
 choco install angryip -fy
 choco install keepassxc -fy
 choco install spotify -fy
+choco install googledrive -fy
 
 :: Software Development Programs
 choco install vscode -fy
