@@ -33,6 +33,9 @@ nvm install --lts
 # Install java
 sudo apt -y install openjdk-11-jdk
 
+# Install maven
+sudo apt -y install maven
+
 # Install ffmpeg
 sudo apt -y install ffmpeg
 

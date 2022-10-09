@@ -1,16 +1,16 @@
 Add the following under profiles for fontFace and colorScheme:
 
-        "defaults": {
-            "fontFace": "MesloLGS NF",
-            "colorScheme": "One Half Dark"
-        },
+"defaults": {
+    "fontFace": "MesloLGS NF",
+    "colorScheme": "One Half Dark"
+},
 
 Add the following to profiles > list for debian startingDirectory:
 
-            {
-                "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
-                "hidden": false,
-                "name": "Debian",
-                "source": "Windows.Terminal.Wsl",
-                "startingDirectory": "/mnt/c/Users/William Lamason/Desktop/src"
-            },
+{
+    "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+    "hidden": false,
+    "name": "Debian",
+    "source": "Windows.Terminal.Wsl",
+    "startingDirectory": "/mnt/c/Users/William Lamason/Desktop/src"
+},
