@@ -17,7 +17,7 @@
 
 👤 **Will Lamason**
 
-* Website: https://wmel.us/
+* Website: [wmel.us](https://wmel.us)
 * Github: [@wlamason](https://github.com/wlamason)
 
 ## Show your support
