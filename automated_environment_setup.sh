@@ -17,9 +17,6 @@ sudo apt -y install curl
 
 # Install python
 sudo apt -y install python3
-sudo apt -y install python3-pip
-sudo apt -y install python3-venv
-sudo apt -y install ipython3
 
 # Install NVM
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
@@ -41,9 +38,6 @@ sudo apt -y install ffmpeg
 
 # Install jq
 sudo apt -y install jq
-
-# Install youtube-dl
-sudo apt -y install youtube-dl
 
 # Install zsh
 sudo apt -y install zsh

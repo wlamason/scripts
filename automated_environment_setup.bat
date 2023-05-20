@@ -31,25 +31,12 @@ choco install googledrive -fy
 :: Software Development Programs
 choco install vscode -fy
 choco install intellijidea-community -fy
-choco install visualstudio2019community -fy
 choco install dbeaver -fy
 choco install git -fy
 choco install cmake -fy
-choco install vagrant -fy
-choco install sqlite -fy
-choco install ojdkbuild11 -fy
-choco install maven -fy
-choco install python -fy
-choco install nvm -fy
-choco install postgresql -fy
 choco install rpi-imager -fy
 choco install vnc-viewer -fy
 choco install docker-desktop -fy
-
-:: CLI Programs
-choco install ffmpeg -fy
-choco install youtube-dl -fy
-choco install jq -fy
 
 :: Games
 choco install steam -fy
@@ -63,9 +50,6 @@ curl -L -O -# https://www.battle.net/download/getInstallerForGame?os=win&gamePro
 @echo Downloading FiveM
 curl -L -O -# https://runtime.fivem.net/client/FiveM.exe
 
-:: Instaloader https://instaloader.github.io/index.html
-pip3 install instaloader
-
 :: Hardware Monitor https://www.cpuid.com/softwares/hwmonitor.html
 @echo Downloading Hardware Monitor 1.41
 curl -L -O -# https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.41.exe
@@ -73,15 +57,3 @@ curl -L -O -# https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.41.exe
 :: WebMConverter https://gitgud.io/nixx/WebMConverter/-/tree/master
 @echo Downloading WebM Converter
 curl -L -O -# https://nixx.is-fantabulo.us/WebM%20for%20Retards/latest.zip
-
-:: HTTPie https://httpie.org/
-pip3 install --upgrade httpie
-
-:: aws-cli https://github.com/aws/aws-cli
-pip3 install awscli
-
-:: readme-md-generator
-npm install -g readme-md-generator
-
-:: Jupyter Lab
-pip3 install jupyterlab

@@ -1,9 +1,8 @@
-https://github.com/wlamason/opendota.js.git
-https://github.com/wlamason/discord-tinyurl.git
-https://github.com/wlamason/discord-data.git
-https://github.com/wlamason/wlamason.github.io.git
-https://github.com/wlamason/links.git
-https://github.com/wlamason/scripts.git
-https://github.com/kevin-wayne/algs4.git
-https://github.com/careercup/CtCI-6th-Edition.git
-https://github.com/tabler/tabler-icons.git
+git@github.com:wlamason/opendota.js.git
+git@github.com:wlamason/links.git
+git@github.com:wlamason/discord-tinyurl.git
+git@github.com:wlamason/github-stars.git
+git@github.com:wlamason/wlamason.github.io.git
+git@github.com:wlamason/discord-data.git
+git@github.com:wlamason/ez-script.git
+git@github.com:wlamason/discord-music.git
