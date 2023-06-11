@@ -42,6 +42,9 @@ sudo apt -y install jq
 # Install rsync
 sudo apt -y install rsync
 
+# Install rclone
+sudo apt -y install rclone
+
 # Install zsh
 sudo apt -y install zsh
 chsh -s $(which zsh)
