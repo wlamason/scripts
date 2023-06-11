@@ -39,6 +39,9 @@ sudo apt -y install ffmpeg
 # Install jq
 sudo apt -y install jq
 
+# Install unzip
+sudo apt -y install unzip
+
 # Install rsync
 sudo apt -y install rsync
 
