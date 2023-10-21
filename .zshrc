@@ -41,7 +41,7 @@ NC="\e[0m" # No Color
 #######################################
 
 alias ll="ls -lv --group-directories-first"
-alias la="ls -la --group-directories-first"
+alias la="ls -lah --group-directories-first"
 alias q="exit"
 alias h="history"
 alias ..="cd .."
