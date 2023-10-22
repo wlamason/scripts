@@ -52,3 +52,5 @@ sudo apt -y install rclone
 sudo apt -y install zsh
 chsh -s $(which zsh)
 echo "Restart terminal for zsh to become default shell"
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
