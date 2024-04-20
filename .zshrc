@@ -73,6 +73,12 @@ alias openports="netstat -nape --inet"
 alias rebootsafe="sudo shutdown -r now"
 alias rebootforce="sudo shutdown -r -n now"
 
+################
+# Key Bindings #
+################
+
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
 
 #####################################
 # User defined functions (commands) #
